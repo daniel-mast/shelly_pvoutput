@@ -1,0 +1,16 @@
+{
+  "name": "shelly_pvoutput",
+  "version": "1.0.0",
+  "description": "Shelly gen2 Script: PVOutput AddStatus",
+  "main": "shelly_pvoutput.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Daniel Mast",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-rewire": "^1.2.0",
+    "jasmine": "^4.5.0",
+    "rewire": "^6.0.0"
+  }
+}
