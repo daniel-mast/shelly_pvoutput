@@ -11,6 +11,7 @@
   "devDependencies": {
     "babel-plugin-rewire": "^1.2.0",
     "jasmine": "^4.5.0",
+    "moment": "^2.29.4",
     "rewire": "^6.0.0"
   }
 }
